@@ -1,0 +1,5 @@
+Testowy tekst - linia 1
+Testowy tekst - linia 2
+Linia 3
+lll4
+nowy tekst
